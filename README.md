@@ -74,7 +74,7 @@ This repository demonstrates **progressive learning**:
 
 ---
 
-# 🔁 📊 Visual Workflow Diagram
+# 📊 Visual Workflow Diagram
 
 ```mermaid
 flowchart LR
@@ -260,9 +260,13 @@ flowchart TD
 # 🏆 What This Shows Recruiters
 
 ✔ Beginner → Advanced progression
+
 ✔ Strong Excel visualization skills
+
 ✔ Understanding of dashboards
+
 ✔ Ability to build interactive reports
+
 ✔ Real-world analytical thinking
 
 ---
@@ -270,9 +274,13 @@ flowchart TD
 # 🧭 Who Is This For?
 
 ✔ Excel Beginners
+
 ✔ Data Analyst Aspirants
+
 ✔ Dashboard Designers
+
 ✔ Students building portfolios
+
 ✔ Business Analysts
 
 ---
@@ -280,9 +288,13 @@ flowchart TD
 # 🚀 Career Impact
 
 ✔ Portfolio-ready project
+
 ✔ Demonstrates Excel expertise
+
 ✔ Builds strong visualization skills
+
 ✔ Helps in Data Analyst interviews
+
 ✔ Foundation for Power BI / Tableau
 
 ---
